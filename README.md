@@ -15,6 +15,8 @@ check here [git quick ref](http://wiki.pcampbell.profweb.ca/index.php/Git_quick_
 command line here are some
 [references](https://drive.google.com/open?id=0B-CHlg81QPjfVU5PSkxYM1hsSEE)
 <http://bit.ly/bashqr>
+* It also uses vi here are some links
+<http://bit.ly/usingvi>
 
-### Do it! 
+### Do it!
 [Start the lab here](02_mistakes_branches.md)
